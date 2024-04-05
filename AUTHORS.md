@@ -4,7 +4,6 @@
 
 * [Maisie Rashman](https://github.com/maifrances) - The Open University, UK (ORCID: [0000-0002-3936-2469](https://orcid.org/0000-0002-3936-2469))
 
-
 ## Current Maintainers
 
 * [Maisie Rashman](https://github.com/maifrances) - The Open University, UK (ORCID: [0000-0002-3936-2469](https://orcid.org/0000-0002-3936-2469))

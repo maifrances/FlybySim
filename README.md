@@ -46,12 +46,21 @@ options:
   --noann          Don't annotate simulation frames with TIRI filters, etc (default: True).
   --saveA          Don't save annotated simulation frames as .npy arrays (default: False).
   --saveraw        Save raw simulation frames to local disk (default: False).
-
 ```
 
 
 ## Documentation
 Documentation is included in the [docstrings](https://www.python.org/dev/peps/pep-0257/) (strings enclosed by triple quotes `"""..."""`) within the source code.
 Or for those with access, in the TIRI Flyby Model Description (COMET-OXF-MIR-TN-130).
+
+
+## Outputs
+Simulation data is output in two formats:
+1. .csv - an ascii table with raw data e.g:
+2. .gif - An animation of the annotated simulation frames with a user defined frame rate:
+| <img src="https://github.com/maifrances/FlybySim/output_examples/flyby-SC-0.05.gif" alt="spacecraft rest frame" width="200"> | <img src="https://github.com/maifrances/FlybySim/output_examples/flyby-TIRI-0.05.gif" alt="TIRI rest frame" width="200"> | 
+|:--:|:--:| 
+| *Spacecraft rest frame* | *TIRI rest frame* |
+
 
 

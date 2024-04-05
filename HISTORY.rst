@@ -20,5 +20,13 @@ History
 |     |         | 16 seconds per full revolution) and filter   |      								  |
 |	  |			| integration times             			   |                                      |
 +-----+---------+----------------------------------------------+--------------------------------------+
+| 4.0 |01/03/24 | Significant changes, including adding command| Docstrings for classes and functions |
+|     |         | line usage and making structural             | have been updated where necessary.   |
+|     |         | adjustments to simplify the code and make    |                                      |
+|     |         | it more linear.                              |                                      |
+|     |         |                                              |                                      |
++-----+---------+----------------------------------------------+--------------------------------------+
+|     |         |                                              |                                      |
++-----+---------+----------------------------------------------+--------------------------------------+
 |     |         |                                              |                                      |
 +-----+---------+----------------------------------------------+--------------------------------------+
