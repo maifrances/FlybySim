@@ -58,9 +58,15 @@ Or for those with access, in the TIRI Flyby Model Description (COMET-OXF-MIR-TN-
 Simulation data is output in two formats:
 1. .csv - an ascii table with raw data e.g:
 2. .gif - An animation of the annotated simulation frames with a user defined frame rate:
-| <img src="https://github.com/maifrances/FlybySim/output_examples/flyby-SC-0.05.gif" alt="spacecraft rest frame" width="200"> | <img src="https://github.com/maifrances/FlybySim/output_examples/flyby-TIRI-0.05.gif" alt="TIRI rest frame" width="200"> | 
-|:--:|:--:| 
+
+| <img src="/output_examples/flyby-SC-0.05.gif" width="300"> | <img src="/output_examples/flyby-TIRI-0.05.gif" width="300"> |
+| -- | -- |
 | *Spacecraft rest frame* | *TIRI rest frame* |
+
+
+
+
+
 
 
 
